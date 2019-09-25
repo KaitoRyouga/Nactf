@@ -18,6 +18,8 @@
 
 - Tổng hợp 2 trang kia có vẻ liên quan tới cookie, và set time trên cookie
 
+- Đọc thêm về `Session, cookie` [Link](https://viblo.asia/p/session-cookie-va-cache-ban-da-thuc-su-hieu-chung-3P0lPv3PKox)
+
 - Thử `F12` lên xem có gì hot
 
 ![f12](image/co4.png)
