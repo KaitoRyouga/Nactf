@@ -16,6 +16,6 @@
 
 ![sql2](image/lab4.png)
 
-- Lỗi `sql injection` này thì quá cơ bản rồi, chắc không cần nói nhiều làm gì...
+- Đọc thêm về lỗi `sql injection` [Link](https://viblo.asia/p/sql-injection-va-cach-phong-chong-OeVKB410lkW)
 
 ![sql3](image/lab5.png)
