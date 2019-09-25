@@ -24,9 +24,9 @@
 
 ![f122](image/co5.png)
 
-- Để ý thì có page `Countdown` có set cookie, còn page `Flag` thì không. Thử dùng `Burp suite` ghi thêm set cookie cho page `Flag`. Để ý thì đoạn thời gian set cho page `Countdown` là `session-time=1569225677; path=/countdown.php` thì `1569225677` là thời gian hiện. Chỉ cần thêm vài số để qua thời gian nhận flag là được
+- Để ý thì có page `Countdown` có set cookie, còn page `Flag` thì không. Thử dùng `Burp suite` ghi thêm set cookie cho page `Flag`. Để ý thì đoạn thời gian set cho page `Countdown` là `session-time=1569225677; path=/countdown.php` thì `1569225677` là thời gian hiện tại. Chỉ cần thêm vài số để qua thời gian nhận flag là được
 
-![f123](iamge/co6.png)
+![f123](image/co6.png)
 
 - Không bất ngờ lắm, flag lên luôn. Thời điểm viết writeup này thì đã end giải nên bài này không ra flag...
  
